@@ -1,0 +1,135 @@
+## Version
+
+**Welcome to the Monitoring Station User Manual.**
+
+**Version: 1.0**
+
+**Updated time:11/16/2020**
+
+**Author: Ye Tian**
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+## GUI Interface
+
+
+**Original interface when the Monitoring Station GUI starts:**  
+![layout1](https://github.com/BME547-Fall2020/final-project-hu-tian/blob/master/User_Manual_Image/yt_original.jpg)  
+
+
+**Deliverables and new options when you choose a patient number and click 'Ok/Reload' button:**  
+![layout2](https://github.com/BME547-Fall2020/final-project-hu-tian/blob/master/User_Manual_Image/yt_click_Ok.png)  
+
+  
+**Feedback when you click either 'Choose another ECG trace image' button or 'Choose a medical image' button**
+![layout3](https://github.com/BME547-Fall2020/final-project-hu-tian/blob/master/User_Manual_Image/yt_two_new_buttons.png)  
+
+
+**If actually there is not available image for that option, it will notice you when you click 'Choose xxx image' button**
+![layout3](https://github.com/BME547-Fall2020/final-project-hu-tian/blob/master/User_Manual_Image/yt_no_image.png) 
+
+**Otherwise, you should be able to choose and display an ECG image or a medical image of the selected patient. You can also download any of the displayed images to local path if you want.**
+![layout3](https://github.com/BME547-Fall2020/final-project-hu-tian/blob/master/User_Manual_Image/yt_show_image.png)
+***
+
+
+* The window size of Monitoring Station GUI will change according to the operations user made(e.g. when you want to show an image the window enlarges itself to get room for display)
+  
+## Widgets of the GUI
+
+### List of buttons on Monitoring Station GUI Interface 
+1. **Ok/Reload**: Basically it chooses a target patient from a list of patients' MRI numbers. One click indicates you want to display the information and latest ECG trace image(below) of the selected patient. Also, it starts the periodic request every 30 seconds to the server to refresh any update in the info or images. It creates another two new buttons for further image-display. It's one of the most important widgets and does many command jobs.
+
+2. **Choose another ECG trace image**: It shows up when a patient number is selected and the 'Ok/Reload' button is clicked. If the selected patient does have another ECG image other than the latest one which is displayed below the 'Ok/Reload' button, the image command collects all other ECG images of that patient in a list of timestamps for image selection, display and download.
+
+3. **Choose a medical image**: It shows up when a patient number is selected and the 'Ok/Reload' button is clicked. If the selected patient does have any medical image in the database, the image command collects all medical images of that patient in a list of image names for further selection and display. 
+
+4. **Display**: Please refer to the specific text on the display buttons to know about its functionalities. There are two display buttons, corresponding to display another selected ECG trace image and to display a selected medical image, respectively. Once it is clicked, the chosen image will be displayed below the button with 384x384 in size. Also, the command will let the 'Download' buttons show up for saving whatever images displayed.
+
+5. **Download**: Please refer to the specific text on the download buttons to know about its functionalities. There are two download buttons, corresponding to download the displayed ECG trace image and to download the displayed medical image, respectively. Once it is clicked, a window for saving the image file will pop up and then users are able to download the displayed image in whatever filename, to whatever file path wanted(default file format is .jpg).
+
+6. **Cancel**: Whenever the users want to quit the GUI, the users can click this button to shut down any ongoing process and close the window. It has the same functionality with the 'X' button on top right corner of the window. However, if the download window pops up for saving images, users cannot click this button until the download window is closed.
+
+### List of combo lists on Monitoring Station GUI Interface 
+1. **MRI number list** It always exist on the second column of the GUI as long as the GUI is running. Every entry of the combo list is an available medical record number(MRI) in the database. It's an option for users to choose a target patient by choosing an MRI in this list. The command of 'Ok/Reload' button takes the input of the list and displays corresponding information/images for further operations.
+
+2. **Another ECG images' timestamp list** It appears when the selected patient does have another ECG trace image(other than the latest one), and the user clicked 'Choose another ECG trace image' button. Every entry of the combo list is a timestamp for all other ECG images in the database. It's an option for users to choose, display and download another ECG image.
+
+2. **Medical images' filename list** It appears when the selected patient does have at least one medical image, and the user clicked 'Choose a medical image' button. Every entry of the combo list is a registered filename for all available medical images in the database. It's an option for users to choose, display and download a medical image.
+
+### List of status/notification labels on Monitoring Station GUI Interface 
+1. **'No available ECG trace image for this patient'**: This status label pops up when the 'Ok/Reload' button is clicked and a patient is selected, but the patient does not have a latest ECG image in the database(no any ECG trace image at all). 
+
+2. **'No No other ECG trace images for this patient'**: This status label pops up when the 'Choose another ECG trace image' button is clicked but the patient does not have any other ECG trace image other than the latest ECG image which should be already displayed on left. 
+
+3. **'Does not have any medical image this patient'**: This status label pops up when the 'Choose a medical image' button is clicked but the patient does not have any medical image available.
+
+4. **'Update: The list of 'other ECG images just got a modification'**: This notification can automatically show because the GUI refreshes any update for a selected patient every 30 seconds, and a modification was submitted to the patient's ECG record(e.g. addition or deletion of a new ECG image).
+
+5. **"Update: The list of medical images just got a modification"**: This notification can automatically show because the GUI refreshes any update for a selected patient every 30 seconds, and a modification was submitted to the patient's medical images data cache(e.g. addition or deletion of a new medical image).
+
+6. **"UPDATE: THE Patient's info/ latest ECG record got a change!"**: This notification can automatically show because the GUI refreshes any update for a selected patient every 30 seconds, and a modification was submitted to the patient's personal information(patient name, latest heart rate or latest timestamp for ECG record submission).
+
+7. **"UPDATED THE LATEST ECG TRACE IMAGE!"**: This notification can automatically show up because the GUI refreshes any update for a selected patient every 30 seconds, and a modification was submitted to the patient's ECG record that the latest ECG trace image is being changed. It can either be a substitution or a new submission for the latest ECG image.
+
+8. **"No ECG trace image is available now."**: This notification can automatically show up because the GUI refreshes any update for a selected patient every 30 seconds. If a latest ECG image was being displayed but then being deleted from the database, the image disappears and this text notification shows up at where the image was displayed.
+
+9. **"UPDATE: No other ECG images now!"**: This notification can automatically show up because the GUI refreshes any update for a selected patient every 30 seconds. If, after a modification, the selected patient only has one ECG image or no ECG image at all, this notification will pop up at where the another ECG trace image was being displayed to tell users about the recent change.
+
+10. **"UPDATE: No medical image now!"**: This notification can automatically show up because the GUI refreshes any update for a selected patient every 30 seconds. If, after a modification(deletion of image), the selected patient has no medical image at all, this notification will pop up at where the medical image was being displayed to tell users about the recent change.
+
+
+## Instruction --- How to realize functionalities
+
+
+### 1. Display a patient's latest ECG record
+To check a patient's MRI, name, latest heart rate and latest submission timestamp for ECG records, or to display the patient's latest ECG trace image, please follow the steps below.
+
+**Choose a patient**: In the second column of the GUI, find the combo list on top, unfold and drag down for more choices, click and choose an MRI number of the target patient.
+
+**Click 'Ok/Reload' button**: Do it after click and choose an MRI number to display the information and/or the latest ECG image of the target patient.
+
+
+
+### 2. Display and download a patient's another ECG trace image
+You can only do this when the selected PATIENT DOES HAVE ANOTHER ECG TRACE IMAGE. To display another ECG trace image of a target patient side-by side with the latest one, please follow the steps below.
+
+**Display the latest ECG image**: Please follow the section 1 above.
+
+**Click 'Choose another ECG trace image' button showed up in the middle**
+
+**Choose a timestamp of the image you want**: If another ECG image does exist in database, in the third column of the GUI, a combo list will pop up  on top. Unfold and drag down for more choices, click and choose an timestamp of the ECG image you want to display
+
+**Click 'Display' button**: This button should show up after you click 'Choose another ECG trace image' button. Click for displaying selected image at below.
+
+**Click 'Download' button**: his button should show up after you click 'Choose another ECG trace image' button. It's an option for users to save the displayed image locally. Click if you do want to download the image.
+
+
+### 3. Display and download a patient's medical image
+You can only do this when the selected PATIENT DOES HAVE ONE OR MORE MEDICAL IMAGES. To display a medical image of a target patient, please follow the steps below.
+
+**Display the latest ECG record**: Please follow the section 1 above.
+
+**Click 'Choose a medical image' button appeared on right**
+
+**Choose a timestamp of the image you want**: If at least one medical image does exist in database, in the fourth column of the GUI, a combo list will pop up on top. Unfold and drag down for more choices, click and choose a filename of the medical image you want to display
+
+**Click 'Display' button**: This button should show up after you click 'Choose a medical image' button. Click for displaying selected image at below.
+
+**Click 'Download' button**: his button should show up after you click 'Choose a medical image' button. It's an option for users to save the displayed image locally. Click if you do want to download the image.
+
+## Supplement
+
+**For more details and instructions, please go to [README](https://github.com/BME547-Fall2020/final-project-hu-tian/blob/master/README.md).**
+
+**For video guides, please go to 
+[Video Guides](https://github.com/BME547-Fall2020/final-project-hu-tian/wiki/User-Video-Guide).**
+
+Part I - 4 minutes
+
+Part II - 5 minutes
+
+**Any concerns or suggestions, please feel free to update to yt149@duke.edu.**

@@ -1,0 +1,12 @@
+pytest==6.0.1
+pytest-pycodestyle==2.2.0
+requests
+flask
+pymodm
+dnspython
+pillow
+matplotlib
+scikit-image
+numpy
+scipy
+urllib3

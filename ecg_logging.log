@@ -1,0 +1,1010 @@
+2020-11-10 20:46:31,158:INFO:Starting analysis the ECG trace ecg_data/test_data1.csv
+2020-11-10 20:46:35,352:INFO:ECG peaks detected
+2020-11-10 20:46:35,352:INFO:Calculating duration :27.772
+2020-11-10 20:46:35,352:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-10 20:46:35,352:INFO:Calculating num_beats :34
+2020-11-10 20:46:35,352:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-10 20:46:35,352:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-10 20:46:35,353:INFO:Metrics dictionary generated
+2020-11-10 20:46:35,354:INFO:Json file ecg_data/test_data1.json created
+2020-11-10 20:46:35,354:INFO:Plotting enabled
+2020-11-10 20:47:52,395:INFO:Starting analysis the ECG trace ecg_data/test_data1.csv
+2020-11-10 20:47:52,836:INFO:ECG peaks detected
+2020-11-10 20:47:52,836:INFO:Calculating duration :27.772
+2020-11-10 20:47:52,836:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-10 20:47:52,836:INFO:Calculating num_beats :34
+2020-11-10 20:47:52,836:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-10 20:47:52,836:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-10 20:47:52,836:INFO:Metrics dictionary generated
+2020-11-10 20:47:52,837:INFO:Json file ecg_data/test_data1.json created
+2020-11-10 20:47:52,837:INFO:Plotting enabled
+2020-11-10 20:58:05,780:INFO:Starting analysis the ECG trace ecg_data/test_data1.csv
+2020-11-10 20:58:06,255:INFO:ECG peaks detected
+2020-11-10 20:58:06,255:INFO:Calculating duration :27.772
+2020-11-10 20:58:06,255:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-10 20:58:06,255:INFO:Calculating num_beats :34
+2020-11-10 20:58:06,256:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-10 20:58:06,256:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-10 20:58:06,256:INFO:Metrics dictionary generated
+2020-11-10 20:58:06,257:INFO:Json file ecg_data/test_data1.json created
+2020-11-10 20:58:06,257:INFO:Plotting enabled
+2020-11-10 21:05:56,298:INFO:Starting analysis the ECG trace ecg_data/test_data1.csv
+2020-11-10 21:05:57,751:INFO:ECG peaks detected
+2020-11-10 21:05:57,751:INFO:Calculating duration :27.772
+2020-11-10 21:05:57,751:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-10 21:05:57,751:INFO:Calculating num_beats :34
+2020-11-10 21:05:57,752:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-10 21:05:57,752:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-10 21:05:57,752:INFO:Metrics dictionary generated
+2020-11-10 21:05:57,796:INFO:Json file ecg_data/test_data1.json created
+2020-11-10 21:05:57,798:INFO:Plotting enabled
+2020-11-10 21:55:15,921:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 21:55:16,442:INFO:ECG peaks detected
+2020-11-10 21:55:16,442:INFO:Calculating duration :27.772
+2020-11-10 21:55:16,442:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 21:55:16,442:INFO:Calculating num_beats :32
+2020-11-10 21:55:16,442:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 21:55:16,442:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 21:55:16,443:INFO:Metrics dictionary generated
+2020-11-10 21:55:16,444:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 21:55:16,444:INFO:Plotting enabled
+2020-11-10 21:57:21,968:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 21:57:22,466:INFO:ECG peaks detected
+2020-11-10 21:57:22,466:INFO:Calculating duration :27.772
+2020-11-10 21:57:22,467:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 21:57:22,467:INFO:Calculating num_beats :32
+2020-11-10 21:57:22,467:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 21:57:22,467:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 21:57:22,467:INFO:Metrics dictionary generated
+2020-11-10 21:57:22,468:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 21:57:22,468:INFO:Plotting enabled
+2020-11-10 21:59:40,937:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 21:59:41,502:INFO:ECG peaks detected
+2020-11-10 21:59:41,502:INFO:Calculating duration :27.772
+2020-11-10 21:59:41,502:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 21:59:41,502:INFO:Calculating num_beats :32
+2020-11-10 21:59:41,503:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 21:59:41,503:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 21:59:41,503:INFO:Metrics dictionary generated
+2020-11-10 21:59:41,504:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 21:59:41,504:INFO:Plotting enabled
+2020-11-10 22:02:40,936:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 22:02:41,397:INFO:ECG peaks detected
+2020-11-10 22:02:41,397:INFO:Calculating duration :27.772
+2020-11-10 22:02:41,397:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 22:02:41,397:INFO:Calculating num_beats :32
+2020-11-10 22:02:41,397:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 22:02:41,397:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 22:02:41,397:INFO:Metrics dictionary generated
+2020-11-10 22:02:41,398:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 22:02:41,398:INFO:Plotting enabled
+2020-11-10 22:05:00,374:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 22:05:00,868:INFO:ECG peaks detected
+2020-11-10 22:05:00,868:INFO:Calculating duration :27.772
+2020-11-10 22:05:00,868:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 22:05:00,868:INFO:Calculating num_beats :32
+2020-11-10 22:05:00,868:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 22:05:00,868:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 22:05:00,869:INFO:Metrics dictionary generated
+2020-11-10 22:05:00,869:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 22:05:00,870:INFO:Plotting enabled
+2020-11-10 22:06:15,655:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-10 22:06:16,150:INFO:ECG peaks detected
+2020-11-10 22:06:16,150:INFO:Calculating duration :27.772
+2020-11-10 22:06:16,150:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-10 22:06:16,150:INFO:Calculating num_beats :35
+2020-11-10 22:06:16,150:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-10 22:06:16,150:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-10 22:06:16,150:INFO:Metrics dictionary generated
+2020-11-10 22:06:16,151:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-10 22:06:16,152:INFO:Plotting enabled
+2020-11-10 22:12:11,125:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 22:12:11,611:INFO:ECG peaks detected
+2020-11-10 22:12:11,611:INFO:Calculating duration :27.772
+2020-11-10 22:12:11,611:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 22:12:11,611:INFO:Calculating num_beats :32
+2020-11-10 22:12:11,611:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 22:12:11,611:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 22:12:11,611:INFO:Metrics dictionary generated
+2020-11-10 22:12:11,612:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 22:12:11,612:INFO:Plotting enabled
+2020-11-10 22:13:13,015:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 22:13:13,488:INFO:ECG peaks detected
+2020-11-10 22:13:13,488:INFO:Calculating duration :27.772
+2020-11-10 22:13:13,488:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 22:13:13,488:INFO:Calculating num_beats :32
+2020-11-10 22:13:13,488:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 22:13:13,488:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 22:13:13,488:INFO:Metrics dictionary generated
+2020-11-10 22:13:13,489:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 22:13:13,489:INFO:Plotting enabled
+2020-11-10 22:13:58,610:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 22:13:59,125:INFO:ECG peaks detected
+2020-11-10 22:13:59,125:INFO:Calculating duration :27.772
+2020-11-10 22:13:59,125:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 22:13:59,125:INFO:Calculating num_beats :32
+2020-11-10 22:13:59,125:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 22:13:59,125:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 22:13:59,125:INFO:Metrics dictionary generated
+2020-11-10 22:13:59,127:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 22:13:59,127:INFO:Plotting enabled
+2020-11-10 22:14:16,827:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-10 22:14:17,310:INFO:ECG peaks detected
+2020-11-10 22:14:17,310:INFO:Calculating duration :27.772
+2020-11-10 22:14:17,310:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-10 22:14:17,310:INFO:Calculating num_beats :35
+2020-11-10 22:14:17,310:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-10 22:14:17,311:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-10 22:14:17,311:INFO:Metrics dictionary generated
+2020-11-10 22:14:17,312:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-10 22:14:17,312:INFO:Plotting enabled
+2020-11-10 22:14:48,859:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data7.csv
+2020-11-10 22:14:49,333:INFO:ECG peaks detected
+2020-11-10 22:14:49,333:INFO:Calculating duration :27.772
+2020-11-10 22:14:49,333:INFO:Calculating voltage_extremes :(-1.05, 2.2)
+2020-11-10 22:14:49,333:INFO:Calculating num_beats :31
+2020-11-10 22:14:49,333:INFO:Calculating mean_hr_bpm :66.97393057756014
+2020-11-10 22:14:49,333:INFO:Calculating beats :[1.011, 2.05, 3.053, 4.058, 5.117, 6.139, 7.178, 8.144, 9.019, 9.956, 10.956, 11.931, 12.847, 13.778, 14.633, 15.475, 16.322, 17.186, 18.014, 18.806, 19.606, 20.414, 21.192, 21.972, 22.767, 23.578, 24.364, 25.106, 25.789, 26.475, 27.172]
+2020-11-10 22:14:49,333:INFO:Metrics dictionary generated
+2020-11-10 22:14:49,335:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data7.json created
+2020-11-10 22:14:49,335:INFO:Plotting enabled
+2020-11-10 22:15:15,688:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-10 22:15:16,203:INFO:ECG peaks detected
+2020-11-10 22:15:16,203:INFO:Calculating duration :27.772
+2020-11-10 22:15:16,204:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-10 22:15:16,204:INFO:Calculating num_beats :34
+2020-11-10 22:15:16,204:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-10 22:15:16,204:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-10 22:15:16,204:INFO:Metrics dictionary generated
+2020-11-10 22:15:16,205:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-10 22:15:16,205:INFO:Plotting enabled
+2020-11-10 22:15:36,812:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-10 22:15:37,269:INFO:ECG peaks detected
+2020-11-10 22:15:37,269:INFO:Calculating duration :27.772
+2020-11-10 22:15:37,269:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-10 22:15:37,269:INFO:Calculating num_beats :34
+2020-11-10 22:15:37,269:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-10 22:15:37,269:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-10 22:15:37,269:INFO:Metrics dictionary generated
+2020-11-10 22:15:37,270:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-10 22:15:37,270:INFO:Plotting enabled
+2020-11-10 22:16:28,187:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-10 22:16:28,709:INFO:ECG peaks detected
+2020-11-10 22:16:28,710:INFO:Calculating duration :27.772
+2020-11-10 22:16:28,710:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-10 22:16:28,710:INFO:Calculating num_beats :34
+2020-11-10 22:16:28,710:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-10 22:16:28,710:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-10 22:16:28,710:INFO:Metrics dictionary generated
+2020-11-10 22:16:28,711:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-10 22:16:28,711:INFO:Plotting enabled
+2020-11-10 22:17:03,280:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-10 22:17:03,737:INFO:ECG peaks detected
+2020-11-10 22:17:03,737:INFO:Calculating duration :27.772
+2020-11-10 22:17:03,737:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-10 22:17:03,737:INFO:Calculating num_beats :32
+2020-11-10 22:17:03,737:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-10 22:17:03,737:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-10 22:17:03,737:INFO:Metrics dictionary generated
+2020-11-10 22:17:03,738:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-10 22:17:03,738:INFO:Plotting enabled
+2020-11-11 07:36:07,249:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 07:36:07,962:INFO:ECG peaks detected
+2020-11-11 07:36:07,962:INFO:Calculating duration :27.772
+2020-11-11 07:36:07,962:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 07:36:07,962:INFO:Calculating num_beats :34
+2020-11-11 07:36:07,962:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 07:36:07,962:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 07:36:07,962:INFO:Metrics dictionary generated
+2020-11-11 07:36:07,963:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 07:36:07,964:INFO:Plotting enabled
+2020-11-11 07:38:22,515:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 07:38:22,991:INFO:ECG peaks detected
+2020-11-11 07:38:22,991:INFO:Calculating duration :27.772
+2020-11-11 07:38:22,991:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 07:38:22,991:INFO:Calculating num_beats :34
+2020-11-11 07:38:22,991:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 07:38:22,991:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 07:38:22,991:INFO:Metrics dictionary generated
+2020-11-11 07:38:22,992:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 07:38:22,992:INFO:Plotting enabled
+2020-11-11 10:24:21,671:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:24:25,198:INFO:ECG peaks detected
+2020-11-11 10:24:25,198:INFO:Calculating duration :27.772
+2020-11-11 10:24:25,198:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:24:25,198:INFO:Calculating num_beats :34
+2020-11-11 10:24:25,198:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:24:25,199:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:24:25,199:INFO:Metrics dictionary generated
+2020-11-11 10:24:25,200:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:24:25,200:INFO:Plotting enabled
+2020-11-11 10:25:17,530:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:25:17,957:INFO:ECG peaks detected
+2020-11-11 10:25:17,957:INFO:Calculating duration :27.772
+2020-11-11 10:25:17,957:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:25:17,957:INFO:Calculating num_beats :34
+2020-11-11 10:25:17,958:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:25:17,958:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:25:17,958:INFO:Metrics dictionary generated
+2020-11-11 10:25:17,959:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:25:17,959:INFO:Plotting enabled
+2020-11-11 10:29:01,411:INFO:Starting analysis the ECG trace ecg_data/test_data1.csv
+2020-11-11 10:29:02,006:INFO:ECG peaks detected
+2020-11-11 10:29:02,006:INFO:Calculating duration :27.772
+2020-11-11 10:29:02,006:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:29:02,006:INFO:Calculating num_beats :34
+2020-11-11 10:29:02,006:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:29:02,006:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:29:02,007:INFO:Metrics dictionary generated
+2020-11-11 10:29:02,008:INFO:Json file ecg_data/test_data1.json created
+2020-11-11 10:29:02,008:INFO:Plotting enabled
+2020-11-11 10:29:26,960:INFO:Starting analysis the ECG trace ecg_data/test_data1.csv
+2020-11-11 10:29:27,610:INFO:ECG peaks detected
+2020-11-11 10:29:27,610:INFO:Calculating duration :27.772
+2020-11-11 10:29:27,610:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:29:27,610:INFO:Calculating num_beats :34
+2020-11-11 10:29:27,610:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:29:27,610:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:29:27,610:INFO:Metrics dictionary generated
+2020-11-11 10:29:27,611:INFO:Json file ecg_data/test_data1.json created
+2020-11-11 10:29:27,612:INFO:Plotting enabled
+2020-11-11 10:45:52,227:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:45:56,003:INFO:ECG peaks detected
+2020-11-11 10:45:56,003:INFO:Calculating duration :27.772
+2020-11-11 10:45:56,004:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:45:56,004:INFO:Calculating num_beats :34
+2020-11-11 10:45:56,004:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:45:56,004:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:45:56,004:INFO:Metrics dictionary generated
+2020-11-11 10:45:56,005:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:45:56,005:INFO:Plotting enabled
+2020-11-11 10:46:42,664:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:46:43,069:INFO:ECG peaks detected
+2020-11-11 10:46:43,069:INFO:Calculating duration :27.772
+2020-11-11 10:46:43,069:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:46:43,069:INFO:Calculating num_beats :34
+2020-11-11 10:46:43,069:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:46:43,069:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:46:43,069:INFO:Metrics dictionary generated
+2020-11-11 10:46:43,070:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:46:43,070:INFO:Plotting enabled
+2020-11-11 10:48:54,102:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:48:54,505:INFO:ECG peaks detected
+2020-11-11 10:48:54,505:INFO:Calculating duration :27.772
+2020-11-11 10:48:54,505:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:48:54,505:INFO:Calculating num_beats :34
+2020-11-11 10:48:54,505:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:48:54,505:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:48:54,506:INFO:Metrics dictionary generated
+2020-11-11 10:48:54,506:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:48:54,507:INFO:Plotting enabled
+2020-11-11 10:56:00,586:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:56:00,994:INFO:ECG peaks detected
+2020-11-11 10:56:00,994:INFO:Calculating duration :27.772
+2020-11-11 10:56:00,994:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:56:00,994:INFO:Calculating num_beats :34
+2020-11-11 10:56:00,994:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:56:00,994:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:56:00,995:INFO:Metrics dictionary generated
+2020-11-11 10:56:00,996:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:56:00,996:INFO:Plotting enabled
+2020-11-11 10:56:05,524:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-11 10:56:05,602:INFO:ECG peaks detected
+2020-11-11 10:56:05,602:INFO:Calculating duration :27.772
+2020-11-11 10:56:05,602:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-11 10:56:05,602:INFO:Calculating num_beats :32
+2020-11-11 10:56:05,602:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-11 10:56:05,602:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-11 10:56:05,603:INFO:Metrics dictionary generated
+2020-11-11 10:56:05,604:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-11 10:56:05,604:INFO:Plotting enabled
+2020-11-11 10:56:10,461:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-11 10:56:10,537:INFO:ECG peaks detected
+2020-11-11 10:56:10,537:INFO:Calculating duration :27.772
+2020-11-11 10:56:10,537:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-11 10:56:10,537:INFO:Calculating num_beats :35
+2020-11-11 10:56:10,537:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-11 10:56:10,537:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-11 10:56:10,537:INFO:Metrics dictionary generated
+2020-11-11 10:56:10,538:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-11 10:56:10,538:INFO:Plotting enabled
+2020-11-11 10:56:20,586:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:56:20,653:INFO:ECG peaks detected
+2020-11-11 10:56:20,653:INFO:Calculating duration :27.772
+2020-11-11 10:56:20,654:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:56:20,654:INFO:Calculating num_beats :34
+2020-11-11 10:56:20,654:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:56:20,654:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:56:20,654:INFO:Metrics dictionary generated
+2020-11-11 10:56:20,655:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:56:20,655:INFO:Plotting enabled
+2020-11-11 10:56:25,180:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data4.csv
+2020-11-11 10:56:25,255:INFO:ECG peaks detected
+2020-11-11 10:56:25,256:INFO:Calculating duration :27.772
+2020-11-11 10:56:25,256:INFO:Calculating voltage_extremes :(-0.76, 1.99)
+2020-11-11 10:56:25,256:INFO:Calculating num_beats :32
+2020-11-11 10:56:25,256:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-11 10:56:25,256:INFO:Calculating beats :[0.772, 1.636, 2.469, 3.314, 4.153, 5.022, 5.944, 6.825, 7.661, 8.492, 9.333, 10.167, 11.019, 11.933, 12.842, 13.756, 14.633, 15.536, 16.403, 17.306, 18.239, 19.128, 19.975, 20.819, 21.65, 22.531, 23.419, 24.311, 25.206, 26.039, 26.878, 27.711]
+2020-11-11 10:56:25,256:INFO:Metrics dictionary generated
+2020-11-11 10:56:25,257:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data4.json created
+2020-11-11 10:56:25,257:INFO:Plotting enabled
+2020-11-11 10:56:31,055:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data10.csv
+2020-11-11 10:56:31,161:INFO:ECG peaks detected
+2020-11-11 10:56:31,161:INFO:Calculating duration :27.772
+2020-11-11 10:56:31,161:INFO:Calculating voltage_extremes :(-1.58, 1.555)
+2020-11-11 10:56:31,161:INFO:Calculating num_beats :41
+2020-11-11 10:56:31,161:INFO:Calculating mean_hr_bpm :88.57842431225696
+2020-11-11 10:56:31,161:INFO:Calculating beats :[0.333, 1.611, 2.267, 2.933, 3.6, 4.247, 4.925, 6.792, 7.411, 8.033, 8.681, 9.333, 9.983, 10.617, 11.25, 11.872, 12.469, 13.053, 13.661, 14.272, 14.911, 15.556, 16.192, 16.825, 17.422, 18.031, 18.628, 19.244, 19.844, 20.464, 21.094, 21.758, 22.436, 23.061, 23.672, 24.3, 24.947, 25.572, 26.203, 26.861, 27.536]
+2020-11-11 10:56:31,161:INFO:Metrics dictionary generated
+2020-11-11 10:56:31,163:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data10.json created
+2020-11-11 10:56:31,163:INFO:Plotting enabled
+2020-11-11 10:57:31,414:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:57:31,819:INFO:ECG peaks detected
+2020-11-11 10:57:31,819:INFO:Calculating duration :27.772
+2020-11-11 10:57:31,819:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:57:31,819:INFO:Calculating num_beats :34
+2020-11-11 10:57:31,819:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:57:31,819:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:57:31,819:INFO:Metrics dictionary generated
+2020-11-11 10:57:31,820:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:57:31,820:INFO:Plotting enabled
+2020-11-11 10:58:06,633:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 10:58:07,039:INFO:ECG peaks detected
+2020-11-11 10:58:07,039:INFO:Calculating duration :27.772
+2020-11-11 10:58:07,039:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 10:58:07,039:INFO:Calculating num_beats :34
+2020-11-11 10:58:07,039:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 10:58:07,039:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 10:58:07,039:INFO:Metrics dictionary generated
+2020-11-11 10:58:07,040:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 10:58:07,040:INFO:Plotting enabled
+2020-11-11 11:04:44,275:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 11:04:44,702:INFO:ECG peaks detected
+2020-11-11 11:04:44,702:INFO:Calculating duration :27.772
+2020-11-11 11:04:44,702:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 11:04:44,702:INFO:Calculating num_beats :34
+2020-11-11 11:04:44,703:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 11:04:44,703:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 11:04:44,703:INFO:Metrics dictionary generated
+2020-11-11 11:04:44,704:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 11:04:44,704:INFO:Plotting enabled
+2020-11-11 11:05:08,508:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 11:05:08,915:INFO:ECG peaks detected
+2020-11-11 11:05:08,915:INFO:Calculating duration :27.772
+2020-11-11 11:05:08,915:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 11:05:08,916:INFO:Calculating num_beats :34
+2020-11-11 11:05:08,916:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 11:05:08,916:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 11:05:08,916:INFO:Metrics dictionary generated
+2020-11-11 11:05:08,917:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 11:05:08,917:INFO:Plotting enabled
+2020-11-11 11:08:20,540:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 11:08:20,953:INFO:ECG peaks detected
+2020-11-11 11:08:20,953:INFO:Calculating duration :27.772
+2020-11-11 11:08:20,953:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 11:08:20,953:INFO:Calculating num_beats :34
+2020-11-11 11:08:20,953:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 11:08:20,953:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 11:08:20,953:INFO:Metrics dictionary generated
+2020-11-11 11:08:20,954:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 11:08:20,954:INFO:Plotting enabled
+2020-11-11 11:11:19,899:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 11:11:20,306:INFO:ECG peaks detected
+2020-11-11 11:11:20,306:INFO:Calculating duration :27.772
+2020-11-11 11:11:20,306:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 11:11:20,306:INFO:Calculating num_beats :34
+2020-11-11 11:11:20,306:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 11:11:20,306:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 11:11:20,306:INFO:Metrics dictionary generated
+2020-11-11 11:11:20,307:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 11:11:20,307:INFO:Plotting enabled
+2020-11-11 11:11:43,368:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-11 11:11:43,435:INFO:ECG peaks detected
+2020-11-11 11:11:43,435:INFO:Calculating duration :27.772
+2020-11-11 11:11:43,435:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-11 11:11:43,435:INFO:Calculating num_beats :32
+2020-11-11 11:11:43,436:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-11 11:11:43,436:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-11 11:11:43,436:INFO:Metrics dictionary generated
+2020-11-11 11:11:43,437:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-11 11:11:43,437:INFO:Plotting enabled
+2020-11-11 11:16:23,384:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 11:16:23,784:INFO:ECG peaks detected
+2020-11-11 11:16:23,784:INFO:Calculating duration :27.772
+2020-11-11 11:16:23,784:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 11:16:23,784:INFO:Calculating num_beats :34
+2020-11-11 11:16:23,784:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 11:16:23,784:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 11:16:23,784:INFO:Metrics dictionary generated
+2020-11-11 11:16:23,785:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 11:16:23,786:INFO:Plotting enabled
+2020-11-11 11:17:17,430:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 11:17:17,834:INFO:ECG peaks detected
+2020-11-11 11:17:17,834:INFO:Calculating duration :27.772
+2020-11-11 11:17:17,834:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 11:17:17,834:INFO:Calculating num_beats :34
+2020-11-11 11:17:17,834:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 11:17:17,834:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 11:17:17,834:INFO:Metrics dictionary generated
+2020-11-11 11:17:17,835:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 11:17:17,835:INFO:Plotting enabled
+2020-11-11 11:18:12,399:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-11 11:18:12,802:INFO:ECG peaks detected
+2020-11-11 11:18:12,803:INFO:Calculating duration :27.772
+2020-11-11 11:18:12,803:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-11 11:18:12,803:INFO:Calculating num_beats :32
+2020-11-11 11:18:12,803:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-11 11:18:12,803:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-11 11:18:12,803:INFO:Metrics dictionary generated
+2020-11-11 11:18:12,804:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-11 11:18:12,804:INFO:Plotting enabled
+2020-11-11 11:20:00,883:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 11:20:01,301:INFO:ECG peaks detected
+2020-11-11 11:20:01,301:INFO:Calculating duration :27.772
+2020-11-11 11:20:01,301:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 11:20:01,301:INFO:Calculating num_beats :34
+2020-11-11 11:20:01,301:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 11:20:01,302:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 11:20:01,302:INFO:Metrics dictionary generated
+2020-11-11 11:20:01,303:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 11:20:01,303:INFO:Plotting enabled
+2020-11-11 11:20:51,133:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 11:20:51,538:INFO:ECG peaks detected
+2020-11-11 11:20:51,538:INFO:Calculating duration :27.772
+2020-11-11 11:20:51,539:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 11:20:51,539:INFO:Calculating num_beats :34
+2020-11-11 11:20:51,539:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 11:20:51,539:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 11:20:51,539:INFO:Metrics dictionary generated
+2020-11-11 11:20:51,540:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 11:20:51,540:INFO:Plotting enabled
+2020-11-11 12:34:07,712:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 12:34:08,230:INFO:ECG peaks detected
+2020-11-11 12:34:08,230:INFO:Calculating duration :27.772
+2020-11-11 12:34:08,230:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 12:34:08,230:INFO:Calculating num_beats :34
+2020-11-11 12:34:08,230:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 12:34:08,230:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 12:34:08,230:INFO:Metrics dictionary generated
+2020-11-11 12:34:08,231:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 12:34:08,231:INFO:Plotting enabled
+2020-11-11 16:37:03,992:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 16:37:07,041:INFO:ECG peaks detected
+2020-11-11 16:37:07,041:INFO:Calculating duration :27.772
+2020-11-11 16:37:07,042:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 16:37:07,042:INFO:Calculating num_beats :34
+2020-11-11 16:37:07,042:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 16:37:07,042:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 16:37:07,042:INFO:Metrics dictionary generated
+2020-11-11 16:37:07,043:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 16:37:07,043:INFO:Plotting enabled
+2020-11-11 16:49:25,664:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 16:49:26,066:INFO:ECG peaks detected
+2020-11-11 16:49:26,066:INFO:Calculating duration :27.772
+2020-11-11 16:49:26,066:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 16:49:26,066:INFO:Calculating num_beats :34
+2020-11-11 16:49:26,066:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 16:49:26,066:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 16:49:26,066:INFO:Metrics dictionary generated
+2020-11-11 16:49:26,067:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 16:49:26,067:INFO:Plotting enabled
+2020-11-11 16:50:54,931:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 16:50:55,337:INFO:ECG peaks detected
+2020-11-11 16:50:55,338:INFO:Calculating duration :27.772
+2020-11-11 16:50:55,338:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 16:50:55,338:INFO:Calculating num_beats :34
+2020-11-11 16:50:55,338:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 16:50:55,338:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 16:50:55,338:INFO:Metrics dictionary generated
+2020-11-11 16:50:55,339:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 16:50:55,339:INFO:Plotting enabled
+2020-11-11 16:51:57,227:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 16:51:57,627:INFO:ECG peaks detected
+2020-11-11 16:51:57,627:INFO:Calculating duration :27.772
+2020-11-11 16:51:57,627:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 16:51:57,627:INFO:Calculating num_beats :34
+2020-11-11 16:51:57,627:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 16:51:57,627:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 16:51:57,627:INFO:Metrics dictionary generated
+2020-11-11 16:51:57,628:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 16:51:57,628:INFO:Plotting enabled
+2020-11-11 16:52:43,603:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-11 16:52:44,008:INFO:ECG peaks detected
+2020-11-11 16:52:44,008:INFO:Calculating duration :27.772
+2020-11-11 16:52:44,008:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-11 16:52:44,008:INFO:Calculating num_beats :32
+2020-11-11 16:52:44,009:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-11 16:52:44,009:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-11 16:52:44,009:INFO:Metrics dictionary generated
+2020-11-11 16:52:44,010:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-11 16:52:44,010:INFO:Plotting enabled
+2020-11-11 16:54:25,776:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 16:54:26,204:INFO:ECG peaks detected
+2020-11-11 16:54:26,204:INFO:Calculating duration :27.772
+2020-11-11 16:54:26,204:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 16:54:26,205:INFO:Calculating num_beats :34
+2020-11-11 16:54:26,205:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 16:54:26,205:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 16:54:26,205:INFO:Metrics dictionary generated
+2020-11-11 16:54:26,206:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 16:54:26,206:INFO:Plotting enabled
+2020-11-11 16:54:32,727:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-11 16:54:32,802:INFO:ECG peaks detected
+2020-11-11 16:54:32,802:INFO:Calculating duration :27.772
+2020-11-11 16:54:32,802:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-11 16:54:32,802:INFO:Calculating num_beats :35
+2020-11-11 16:54:32,802:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-11 16:54:32,802:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-11 16:54:32,802:INFO:Metrics dictionary generated
+2020-11-11 16:54:32,803:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-11 16:54:32,803:INFO:Plotting enabled
+2020-11-11 21:01:30,899:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 21:01:31,327:INFO:ECG peaks detected
+2020-11-11 21:01:31,327:INFO:Calculating duration :27.772
+2020-11-11 21:01:31,327:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 21:01:31,327:INFO:Calculating num_beats :34
+2020-11-11 21:01:31,327:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 21:01:31,328:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 21:01:31,328:INFO:Metrics dictionary generated
+2020-11-11 21:01:31,329:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 21:01:31,329:INFO:Plotting enabled
+2020-11-11 23:08:40,445:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-11 23:08:40,841:INFO:ECG peaks detected
+2020-11-11 23:08:40,841:INFO:Calculating duration :27.772
+2020-11-11 23:08:40,841:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-11 23:08:40,841:INFO:Calculating num_beats :32
+2020-11-11 23:08:40,841:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-11 23:08:40,841:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-11 23:08:40,841:INFO:Metrics dictionary generated
+2020-11-11 23:08:40,842:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-11 23:08:40,842:INFO:Plotting enabled
+2020-11-11 23:26:15,131:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 23:26:15,537:INFO:ECG peaks detected
+2020-11-11 23:26:15,538:INFO:Calculating duration :27.772
+2020-11-11 23:26:15,538:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 23:26:15,538:INFO:Calculating num_beats :34
+2020-11-11 23:26:15,538:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 23:26:15,538:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 23:26:15,538:INFO:Metrics dictionary generated
+2020-11-11 23:26:15,539:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 23:26:15,539:INFO:Plotting enabled
+2020-11-11 23:34:21,506:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-11 23:34:21,912:INFO:ECG peaks detected
+2020-11-11 23:34:21,912:INFO:Calculating duration :27.772
+2020-11-11 23:34:21,912:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-11 23:34:21,912:INFO:Calculating num_beats :34
+2020-11-11 23:34:21,912:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-11 23:34:21,913:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-11 23:34:21,913:INFO:Metrics dictionary generated
+2020-11-11 23:34:21,914:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-11 23:34:21,914:INFO:Plotting enabled
+2020-11-12 15:40:50,397:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-12 15:40:54,295:INFO:ECG peaks detected
+2020-11-12 15:40:54,296:INFO:Calculating duration :27.772
+2020-11-12 15:40:54,296:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-12 15:40:54,296:INFO:Calculating num_beats :34
+2020-11-12 15:40:54,296:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-12 15:40:54,296:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-12 15:40:54,296:INFO:Metrics dictionary generated
+2020-11-12 15:40:54,297:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-12 15:40:54,297:INFO:Plotting enabled
+2020-11-12 15:44:14,149:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-12 15:44:14,556:INFO:ECG peaks detected
+2020-11-12 15:44:14,556:INFO:Calculating duration :27.772
+2020-11-12 15:44:14,556:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-12 15:44:14,556:INFO:Calculating num_beats :32
+2020-11-12 15:44:14,556:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-12 15:44:14,557:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-12 15:44:14,557:INFO:Metrics dictionary generated
+2020-11-12 15:44:14,557:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-12 15:44:14,558:INFO:Plotting enabled
+2020-11-12 16:49:49,944:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-12 16:49:50,396:INFO:ECG peaks detected
+2020-11-12 16:49:50,396:INFO:Calculating duration :27.772
+2020-11-12 16:49:50,396:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-12 16:49:50,396:INFO:Calculating num_beats :35
+2020-11-12 16:49:50,396:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-12 16:49:50,396:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-12 16:49:50,396:INFO:Metrics dictionary generated
+2020-11-12 16:49:50,397:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-12 16:49:50,397:INFO:Plotting enabled
+2020-11-12 16:55:28,242:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data4.csv
+2020-11-12 16:55:28,681:INFO:ECG peaks detected
+2020-11-12 16:55:28,682:INFO:Calculating duration :27.772
+2020-11-12 16:55:28,682:INFO:Calculating voltage_extremes :(-0.76, 1.99)
+2020-11-12 16:55:28,682:INFO:Calculating num_beats :32
+2020-11-12 16:55:28,682:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-12 16:55:28,682:INFO:Calculating beats :[0.772, 1.636, 2.469, 3.314, 4.153, 5.022, 5.944, 6.825, 7.661, 8.492, 9.333, 10.167, 11.019, 11.933, 12.842, 13.756, 14.633, 15.536, 16.403, 17.306, 18.239, 19.128, 19.975, 20.819, 21.65, 22.531, 23.419, 24.311, 25.206, 26.039, 26.878, 27.711]
+2020-11-12 16:55:28,682:INFO:Metrics dictionary generated
+2020-11-12 16:55:28,683:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data4.json created
+2020-11-12 16:55:28,683:INFO:Plotting enabled
+2020-11-12 16:56:04,975:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data23.csv
+2020-11-12 16:56:05,447:INFO:ECG peaks detected
+2020-11-12 16:56:05,447:INFO:Calculating duration :39.992000000000004
+2020-11-12 16:56:05,447:INFO:Calculating voltage_extremes :(-3.34, 3.81)
+2020-11-12 16:56:05,447:INFO:Calculating num_beats :75
+2020-11-12 16:56:05,447:INFO:Calculating mean_hr_bpm :112.52250450090017
+2020-11-12 16:56:05,448:INFO:Calculating beats :[0.26, 0.792, 1.324, 1.86, 2.396, 2.932, 3.468, 4.004, 4.54, 5.08, 5.616, 6.144, 6.68, 7.22, 7.756, 8.292, 8.828, 9.36, 9.892, 10.42, 10.952, 11.488, 12.016, 12.544, 13.072, 13.612, 14.152, 14.688, 15.224, 15.764, 16.3, 16.836, 17.372, 17.912, 18.444, 18.972, 19.504, 20.04, 20.576, 21.116, 21.652, 22.188, 22.724, 23.26, 23.796, 24.332, 24.864, 25.392, 25.924, 26.46, 27.0, 27.54, 28.08, 28.62, 29.156, 29.696, 30.236, 30.776, 31.316, 31.848, 32.384, 32.924, 33.464, 34.008, 34.544, 35.084, 35.62, 36.156, 36.692, 37.228, 37.76, 38.288, 38.824, 39.36, 39.896]
+2020-11-12 16:56:05,448:INFO:Metrics dictionary generated
+2020-11-12 16:56:05,449:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data23.json created
+2020-11-12 16:56:05,449:INFO:Plotting enabled
+2020-11-12 16:59:42,757:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-12 16:59:43,248:INFO:ECG peaks detected
+2020-11-12 16:59:43,248:INFO:Calculating duration :27.772
+2020-11-12 16:59:43,248:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-12 16:59:43,248:INFO:Calculating num_beats :34
+2020-11-12 16:59:43,248:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-12 16:59:43,248:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-12 16:59:43,248:INFO:Metrics dictionary generated
+2020-11-12 16:59:43,249:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-12 16:59:43,249:INFO:Plotting enabled
+2020-11-12 17:02:36,694:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-12 17:02:37,145:INFO:ECG peaks detected
+2020-11-12 17:02:37,145:INFO:Calculating duration :27.772
+2020-11-12 17:02:37,145:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-12 17:02:37,145:INFO:Calculating num_beats :34
+2020-11-12 17:02:37,145:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-12 17:02:37,145:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-12 17:02:37,145:INFO:Metrics dictionary generated
+2020-11-12 17:02:37,146:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-12 17:02:37,147:INFO:Plotting enabled
+2020-11-12 17:04:20,461:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-12 17:04:20,949:INFO:ECG peaks detected
+2020-11-12 17:04:20,950:INFO:Calculating duration :27.772
+2020-11-12 17:04:20,950:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-12 17:04:20,950:INFO:Calculating num_beats :32
+2020-11-12 17:04:20,951:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-12 17:04:20,951:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-12 17:04:20,951:INFO:Metrics dictionary generated
+2020-11-12 17:04:20,952:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-12 17:04:20,953:INFO:Plotting enabled
+2020-11-12 17:07:14,538:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-12 17:07:14,968:INFO:ECG peaks detected
+2020-11-12 17:07:14,968:INFO:Calculating duration :27.772
+2020-11-12 17:07:14,968:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-12 17:07:14,968:INFO:Calculating num_beats :34
+2020-11-12 17:07:14,968:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-12 17:07:14,968:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-12 17:07:14,968:INFO:Metrics dictionary generated
+2020-11-12 17:07:14,969:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-12 17:07:14,969:INFO:Plotting enabled
+2020-11-14 11:57:16,174:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-14 11:57:20,209:INFO:ECG peaks detected
+2020-11-14 11:57:20,210:INFO:Calculating duration :27.772
+2020-11-14 11:57:20,210:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-14 11:57:20,210:INFO:Calculating num_beats :34
+2020-11-14 11:57:20,210:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-14 11:57:20,210:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-14 11:57:20,210:INFO:Metrics dictionary generated
+2020-11-14 11:57:20,211:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-14 11:57:20,211:INFO:Plotting enabled
+2020-11-14 12:00:56,284:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-14 12:00:56,691:INFO:ECG peaks detected
+2020-11-14 12:00:56,692:INFO:Calculating duration :27.772
+2020-11-14 12:00:56,692:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-14 12:00:56,692:INFO:Calculating num_beats :34
+2020-11-14 12:00:56,692:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-14 12:00:56,692:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-14 12:00:56,692:INFO:Metrics dictionary generated
+2020-11-14 12:00:56,693:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-14 12:00:56,693:INFO:Plotting enabled
+2020-11-15 10:56:05,329:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-15 10:56:07,623:INFO:ECG peaks detected
+2020-11-15 10:56:07,623:INFO:Calculating duration :27.772
+2020-11-15 10:56:07,623:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-15 10:56:07,623:INFO:Calculating num_beats :34
+2020-11-15 10:56:07,624:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-15 10:56:07,624:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-15 10:56:07,624:INFO:Metrics dictionary generated
+2020-11-15 10:56:07,625:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-15 10:56:07,625:INFO:Plotting enabled
+2020-11-15 14:49:05,034:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-15 14:49:05,479:INFO:ECG peaks detected
+2020-11-15 14:49:05,480:INFO:Calculating duration :27.772
+2020-11-15 14:49:05,480:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-15 14:49:05,480:INFO:Calculating num_beats :34
+2020-11-15 14:49:05,480:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-15 14:49:05,480:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-15 14:49:05,480:INFO:Metrics dictionary generated
+2020-11-15 14:49:05,481:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-15 14:49:05,481:INFO:Plotting enabled
+2020-11-15 17:12:31,751:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-15 17:12:32,201:INFO:ECG peaks detected
+2020-11-15 17:12:32,201:INFO:Calculating duration :27.772
+2020-11-15 17:12:32,202:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-15 17:12:32,202:INFO:Calculating num_beats :34
+2020-11-15 17:12:32,202:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-15 17:12:32,202:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-15 17:12:32,202:INFO:Metrics dictionary generated
+2020-11-15 17:12:32,203:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-15 17:12:32,203:INFO:Plotting enabled
+2020-11-15 17:15:27,939:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-15 17:15:28,371:INFO:ECG peaks detected
+2020-11-15 17:15:28,372:INFO:Calculating duration :27.772
+2020-11-15 17:15:28,372:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-15 17:15:28,372:INFO:Calculating num_beats :34
+2020-11-15 17:15:28,372:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-15 17:15:28,372:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-15 17:15:28,372:INFO:Metrics dictionary generated
+2020-11-15 17:15:28,373:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-15 17:15:28,373:INFO:Plotting enabled
+2020-11-15 17:18:30,034:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-15 17:18:30,462:INFO:ECG peaks detected
+2020-11-15 17:18:30,463:INFO:Calculating duration :27.772
+2020-11-15 17:18:30,463:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-15 17:18:30,463:INFO:Calculating num_beats :34
+2020-11-15 17:18:30,463:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-15 17:18:30,463:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-15 17:18:30,463:INFO:Metrics dictionary generated
+2020-11-15 17:18:30,464:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-15 17:18:30,464:INFO:Plotting enabled
+2020-11-15 17:24:41,956:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-15 17:24:42,392:INFO:ECG peaks detected
+2020-11-15 17:24:42,392:INFO:Calculating duration :27.772
+2020-11-15 17:24:42,392:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-15 17:24:42,392:INFO:Calculating num_beats :34
+2020-11-15 17:24:42,392:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-15 17:24:42,392:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-15 17:24:42,392:INFO:Metrics dictionary generated
+2020-11-15 17:24:42,393:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-15 17:24:42,394:INFO:Plotting enabled
+2020-11-15 17:32:03,142:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-15 17:32:03,583:INFO:ECG peaks detected
+2020-11-15 17:32:03,583:INFO:Calculating duration :27.772
+2020-11-15 17:32:03,583:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-15 17:32:03,583:INFO:Calculating num_beats :32
+2020-11-15 17:32:03,584:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-15 17:32:03,584:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-15 17:32:03,584:INFO:Metrics dictionary generated
+2020-11-15 17:32:03,585:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-15 17:32:03,585:INFO:Plotting enabled
+2020-11-15 17:56:45,534:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-15 17:56:45,964:INFO:ECG peaks detected
+2020-11-15 17:56:45,964:INFO:Calculating duration :27.772
+2020-11-15 17:56:45,965:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-15 17:56:45,965:INFO:Calculating num_beats :34
+2020-11-15 17:56:45,965:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-15 17:56:45,965:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-15 17:56:45,965:INFO:Metrics dictionary generated
+2020-11-15 17:56:45,966:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-15 17:56:45,966:INFO:Plotting enabled
+2020-11-15 18:43:02,675:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-15 18:43:03,241:INFO:ECG peaks detected
+2020-11-15 18:43:03,241:INFO:Calculating duration :27.772
+2020-11-15 18:43:03,241:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-15 18:43:03,241:INFO:Calculating num_beats :32
+2020-11-15 18:43:03,241:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-15 18:43:03,241:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-15 18:43:03,241:INFO:Metrics dictionary generated
+2020-11-15 18:43:03,242:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-15 18:43:03,242:INFO:Plotting enabled
+2020-11-15 19:00:09,175:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-15 19:00:09,641:INFO:ECG peaks detected
+2020-11-15 19:00:09,641:INFO:Calculating duration :27.772
+2020-11-15 19:00:09,642:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-15 19:00:09,642:INFO:Calculating num_beats :35
+2020-11-15 19:00:09,642:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-15 19:00:09,642:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-15 19:00:09,642:INFO:Metrics dictionary generated
+2020-11-15 19:00:09,643:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-15 19:00:09,643:INFO:Plotting enabled
+2020-11-15 21:03:01,080:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-15 21:03:01,548:INFO:ECG peaks detected
+2020-11-15 21:03:01,548:INFO:Calculating duration :27.772
+2020-11-15 21:03:01,548:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-15 21:03:01,548:INFO:Calculating num_beats :34
+2020-11-15 21:03:01,548:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-15 21:03:01,548:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-15 21:03:01,548:INFO:Metrics dictionary generated
+2020-11-15 21:03:01,549:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-15 21:03:01,550:INFO:Plotting enabled
+2020-11-16 08:00:48,847:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-16 08:00:51,052:INFO:ECG peaks detected
+2020-11-16 08:00:51,052:INFO:Calculating duration :27.772
+2020-11-16 08:00:51,053:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-16 08:00:51,053:INFO:Calculating num_beats :32
+2020-11-16 08:00:51,053:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-16 08:00:51,053:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-16 08:00:51,053:INFO:Metrics dictionary generated
+2020-11-16 08:00:51,054:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-16 08:00:51,054:INFO:Plotting enabled
+2020-11-16 08:42:54,330:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-16 08:42:54,437:INFO:ECG peaks detected
+2020-11-16 08:42:54,437:INFO:Calculating duration :27.772
+2020-11-16 08:42:54,437:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-16 08:42:54,437:INFO:Calculating num_beats :35
+2020-11-16 08:42:54,437:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-16 08:42:54,437:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-16 08:42:54,437:INFO:Metrics dictionary generated
+2020-11-16 08:42:54,440:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-16 08:42:54,440:INFO:Plotting enabled
+2020-11-16 09:18:10,675:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data6.csv
+2020-11-16 09:18:11,188:INFO:ECG peaks detected
+2020-11-16 09:18:11,188:INFO:Calculating duration :27.772
+2020-11-16 09:18:11,188:INFO:Calculating voltage_extremes :(-0.79, 1.78)
+2020-11-16 09:18:11,188:INFO:Calculating num_beats :38
+2020-11-16 09:18:11,188:INFO:Calculating mean_hr_bpm :82.0970761918479
+2020-11-16 09:18:11,189:INFO:Calculating beats :[0.581, 1.308, 2.003, 2.714, 3.428, 4.142, 4.869, 5.631, 6.386, 7.119, 7.819, 8.511, 9.208, 9.931, 10.689, 11.428, 12.175, 12.911, 13.647, 14.353, 15.056, 15.478, 16.486, 17.242, 18.003, 18.747, 19.467, 20.164, 20.883, 21.608, 22.036, 23.064, 23.822, 24.561, 25.294, 26.006, 26.7, 27.383]
+2020-11-16 09:18:11,189:INFO:Metrics dictionary generated
+2020-11-16 09:18:11,190:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data6.json created
+2020-11-16 09:18:11,190:INFO:Plotting enabled
+2020-11-16 09:24:25,314:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data10.csv
+2020-11-16 09:24:25,836:INFO:ECG peaks detected
+2020-11-16 09:24:25,836:INFO:Calculating duration :27.772
+2020-11-16 09:24:25,837:INFO:Calculating voltage_extremes :(-1.58, 1.555)
+2020-11-16 09:24:25,837:INFO:Calculating num_beats :41
+2020-11-16 09:24:25,837:INFO:Calculating mean_hr_bpm :88.57842431225696
+2020-11-16 09:24:25,837:INFO:Calculating beats :[0.333, 1.611, 2.267, 2.933, 3.6, 4.247, 4.925, 6.792, 7.411, 8.033, 8.681, 9.333, 9.983, 10.617, 11.25, 11.872, 12.469, 13.053, 13.661, 14.272, 14.911, 15.556, 16.192, 16.825, 17.422, 18.031, 18.628, 19.244, 19.844, 20.464, 21.094, 21.758, 22.436, 23.061, 23.672, 24.3, 24.947, 25.572, 26.203, 26.861, 27.536]
+2020-11-16 09:24:25,837:INFO:Metrics dictionary generated
+2020-11-16 09:24:25,838:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data10.json created
+2020-11-16 09:24:25,838:INFO:Plotting enabled
+2020-11-16 09:47:34,033:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-16 09:47:34,110:INFO:ECG peaks detected
+2020-11-16 09:47:34,110:INFO:Calculating duration :27.772
+2020-11-16 09:47:34,110:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-16 09:47:34,110:INFO:Calculating num_beats :35
+2020-11-16 09:47:34,110:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-16 09:47:34,110:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-16 09:47:34,111:INFO:Metrics dictionary generated
+2020-11-16 09:47:34,112:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-16 09:47:34,112:INFO:Plotting enabled
+2020-11-16 09:49:44,924:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-16 09:49:44,995:INFO:ECG peaks detected
+2020-11-16 09:49:44,995:INFO:Calculating duration :27.772
+2020-11-16 09:49:44,995:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-16 09:49:44,995:INFO:Calculating num_beats :32
+2020-11-16 09:49:44,996:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-16 09:49:44,996:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-16 09:49:44,996:INFO:Metrics dictionary generated
+2020-11-16 09:49:44,997:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-16 09:49:44,997:INFO:Plotting enabled
+2020-11-16 09:58:15,987:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-16 09:58:16,450:INFO:ECG peaks detected
+2020-11-16 09:58:16,450:INFO:Calculating duration :27.772
+2020-11-16 09:58:16,450:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-16 09:58:16,450:INFO:Calculating num_beats :34
+2020-11-16 09:58:16,450:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-16 09:58:16,450:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-16 09:58:16,450:INFO:Metrics dictionary generated
+2020-11-16 09:58:16,451:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-16 09:58:16,451:INFO:Plotting enabled
+2020-11-16 10:00:11,049:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-16 10:00:11,119:INFO:ECG peaks detected
+2020-11-16 10:00:11,119:INFO:Calculating duration :27.772
+2020-11-16 10:00:11,119:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-16 10:00:11,119:INFO:Calculating num_beats :35
+2020-11-16 10:00:11,119:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-16 10:00:11,120:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-16 10:00:11,120:INFO:Metrics dictionary generated
+2020-11-16 10:00:11,121:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-16 10:00:11,121:INFO:Plotting enabled
+2020-11-16 16:43:57,159:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data6.csv
+2020-11-16 16:43:59,434:INFO:ECG peaks detected
+2020-11-16 16:43:59,435:INFO:Calculating duration :27.772
+2020-11-16 16:43:59,435:INFO:Calculating voltage_extremes :(-0.79, 1.78)
+2020-11-16 16:43:59,435:INFO:Calculating num_beats :38
+2020-11-16 16:43:59,435:INFO:Calculating mean_hr_bpm :82.0970761918479
+2020-11-16 16:43:59,435:INFO:Calculating beats :[0.581, 1.308, 2.003, 2.714, 3.428, 4.142, 4.869, 5.631, 6.386, 7.119, 7.819, 8.511, 9.208, 9.931, 10.689, 11.428, 12.175, 12.911, 13.647, 14.353, 15.056, 15.478, 16.486, 17.242, 18.003, 18.747, 19.467, 20.164, 20.883, 21.608, 22.036, 23.064, 23.822, 24.561, 25.294, 26.006, 26.7, 27.383]
+2020-11-16 16:43:59,435:INFO:Metrics dictionary generated
+2020-11-16 16:43:59,437:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data6.json created
+2020-11-16 16:43:59,437:INFO:Plotting enabled
+2020-11-16 16:46:07,298:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-16 16:46:07,783:INFO:ECG peaks detected
+2020-11-16 16:46:07,783:INFO:Calculating duration :27.772
+2020-11-16 16:46:07,783:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-16 16:46:07,783:INFO:Calculating num_beats :35
+2020-11-16 16:46:07,783:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-16 16:46:07,783:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-16 16:46:07,783:INFO:Metrics dictionary generated
+2020-11-16 16:46:07,784:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-16 16:46:07,785:INFO:Plotting enabled
+2020-11-16 17:04:49,534:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-16 17:04:50,012:INFO:ECG peaks detected
+2020-11-16 17:04:50,012:INFO:Calculating duration :27.772
+2020-11-16 17:04:50,012:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-16 17:04:50,012:INFO:Calculating num_beats :32
+2020-11-16 17:04:50,012:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-16 17:04:50,012:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-16 17:04:50,012:INFO:Metrics dictionary generated
+2020-11-16 17:04:50,013:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-16 17:04:50,013:INFO:Plotting enabled
+2020-11-16 17:06:32,284:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-16 17:06:32,757:INFO:ECG peaks detected
+2020-11-16 17:06:32,757:INFO:Calculating duration :27.772
+2020-11-16 17:06:32,757:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-16 17:06:32,757:INFO:Calculating num_beats :32
+2020-11-16 17:06:32,757:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-16 17:06:32,757:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-16 17:06:32,757:INFO:Metrics dictionary generated
+2020-11-16 17:06:32,758:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-16 17:06:32,759:INFO:Plotting enabled
+2020-11-16 19:28:04,923:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-16 19:28:05,406:INFO:ECG peaks detected
+2020-11-16 19:28:05,406:INFO:Calculating duration :27.772
+2020-11-16 19:28:05,406:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-16 19:28:05,406:INFO:Calculating num_beats :34
+2020-11-16 19:28:05,406:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-16 19:28:05,406:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-16 19:28:05,406:INFO:Metrics dictionary generated
+2020-11-16 19:28:05,407:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-16 19:28:05,407:INFO:Plotting enabled
+2020-11-16 21:57:52,752:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-16 21:57:53,295:INFO:ECG peaks detected
+2020-11-16 21:57:53,296:INFO:Calculating duration :27.772
+2020-11-16 21:57:53,296:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-16 21:57:53,296:INFO:Calculating num_beats :34
+2020-11-16 21:57:53,296:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-16 21:57:53,296:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-16 21:57:53,296:INFO:Metrics dictionary generated
+2020-11-16 21:57:53,298:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-16 21:57:53,298:INFO:Plotting enabled
+2020-11-16 22:02:17,596:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.csv
+2020-11-16 22:02:18,115:INFO:ECG peaks detected
+2020-11-16 22:02:18,116:INFO:Calculating duration :27.772
+2020-11-16 22:02:18,116:INFO:Calculating voltage_extremes :(-2.08, 2.308)
+2020-11-16 22:02:18,116:INFO:Calculating num_beats :34
+2020-11-16 22:02:18,116:INFO:Calculating mean_hr_bpm :73.45527869796919
+2020-11-16 22:02:18,116:INFO:Calculating beats :[0.25, 1.064, 1.878, 2.667, 3.456, 4.244, 5.064, 5.717, 6.711, 7.553, 8.364, 9.156, 9.925, 10.767, 11.622, 12.442, 13.272, 14.094, 14.889, 15.686, 16.478, 17.3, 18.167, 18.992, 19.775, 20.567, 21.342, 22.128, 22.942, 23.756, 24.586, 25.431, 26.236, 27.011]
+2020-11-16 22:02:18,116:INFO:Metrics dictionary generated
+2020-11-16 22:02:18,117:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data1.json created
+2020-11-16 22:02:18,117:INFO:Plotting enabled
+2020-11-16 22:04:07,830:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data4.csv
+2020-11-16 22:04:07,917:INFO:ECG peaks detected
+2020-11-16 22:04:07,917:INFO:Calculating duration :27.772
+2020-11-16 22:04:07,917:INFO:Calculating voltage_extremes :(-0.76, 1.99)
+2020-11-16 22:04:07,917:INFO:Calculating num_beats :32
+2020-11-16 22:04:07,917:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-16 22:04:07,917:INFO:Calculating beats :[0.772, 1.636, 2.469, 3.314, 4.153, 5.022, 5.944, 6.825, 7.661, 8.492, 9.333, 10.167, 11.019, 11.933, 12.842, 13.756, 14.633, 15.536, 16.403, 17.306, 18.239, 19.128, 19.975, 20.819, 21.65, 22.531, 23.419, 24.311, 25.206, 26.039, 26.878, 27.711]
+2020-11-16 22:04:07,917:INFO:Metrics dictionary generated
+2020-11-16 22:04:07,919:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data4.json created
+2020-11-16 22:04:07,919:INFO:Plotting enabled
+2020-11-16 22:06:54,595:INFO:Starting analysis the ECG trace C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-16 22:06:54,679:INFO:ECG peaks detected
+2020-11-16 22:06:54,680:INFO:Calculating duration :27.772
+2020-11-16 22:06:54,680:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-16 22:06:54,680:INFO:Calculating num_beats :32
+2020-11-16 22:06:54,680:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-16 22:06:54,680:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-16 22:06:54,680:INFO:Metrics dictionary generated
+2020-11-16 22:06:54,681:INFO:Json file C:/Users/mingz/PycharmProjects/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-16 22:06:54,681:INFO:Plotting enabled
+2020-11-17 17:07:24,402:INFO:Starting analysis the ECG trace C:/Users/Ye Tian/BME547/BME-547/assignment/final-project-hu-tian/ecg_data/test_data16.csv
+2020-11-17 17:07:27,041:INFO:ECG peaks detected
+2020-11-17 17:07:27,041:INFO:Calculating duration :13.886000000000001
+2020-11-17 17:07:27,041:INFO:Calculating voltage_extremes :(-1.672, 2.12)
+2020-11-17 17:07:27,042:INFO:Calculating num_beats :19
+2020-11-17 17:07:27,042:INFO:Calculating mean_hr_bpm :82.09707619184789
+2020-11-17 17:07:27,042:INFO:Calculating beats :[0.076, 0.824, 1.574, 2.324, 3.074, 3.824, 4.574, 5.324, 6.074, 6.824, 7.574, 8.324, 9.074, 9.824, 10.574, 11.324, 12.074, 12.824, 13.574]
+2020-11-17 17:07:27,042:INFO:Metrics dictionary generated
+2020-11-17 17:07:27,044:INFO:Json file C:/Users/Ye Tian/BME547/BME-547/assignment/final-project-hu-tian/ecg_data/test_data16.json created
+2020-11-17 17:07:27,045:INFO:Plotting enabled
+2020-11-17 23:17:16,942:INFO:Starting analysis the ECG trace C:/Users/Ye Tian/BME547/BME-547/assignment/final-project-hu-tian/ecg_data/test_data2.csv
+2020-11-17 23:17:18,111:INFO:ECG peaks detected
+2020-11-17 23:17:18,112:INFO:Calculating duration :27.772
+2020-11-17 23:17:18,112:INFO:Calculating voltage_extremes :(-1.017, 1.817)
+2020-11-17 23:17:18,112:INFO:Calculating num_beats :32
+2020-11-17 23:17:18,112:INFO:Calculating mean_hr_bpm :69.13437995102981
+2020-11-17 23:17:18,112:INFO:Calculating beats :[0.267, 1.136, 2.011, 2.903, 3.836, 4.792, 5.692, 6.561, 7.431, 8.292, 9.206, 10.122, 11.039, 11.933, 12.842, 13.725, 14.594, 15.506, 16.422, 17.322, 18.169, 19.008, 19.878, 20.767, 21.664, 22.553, 23.408, 24.264, 25.108, 25.928, 26.783, 27.683]
+2020-11-17 23:17:18,112:INFO:Metrics dictionary generated
+2020-11-17 23:17:18,113:INFO:Json file C:/Users/Ye Tian/BME547/BME-547/assignment/final-project-hu-tian/ecg_data/test_data2.json created
+2020-11-17 23:17:18,113:INFO:Plotting enabled
+2020-11-17 23:23:57,819:INFO:Starting analysis the ECG trace C:/Users/Ye Tian/BME547/BME-547/assignment/final-project-hu-tian/ecg_data/test_data3.csv
+2020-11-17 23:23:58,473:INFO:ECG peaks detected
+2020-11-17 23:23:58,473:INFO:Calculating duration :27.772
+2020-11-17 23:23:58,473:INFO:Calculating voltage_extremes :(-1.677, 1.868)
+2020-11-17 23:23:58,473:INFO:Calculating num_beats :35
+2020-11-17 23:23:58,473:INFO:Calculating mean_hr_bpm :75.61572807143887
+2020-11-17 23:23:58,473:INFO:Calculating beats :[0.364, 1.178, 1.975, 2.783, 3.664, 4.522, 5.344, 6.153, 6.953, 7.767, 8.064, 8.572, 9.408, 10.294, 11.144, 11.953, 12.756, 13.556, 14.383, 15.222, 16.061, 16.939, 17.764, 18.553, 19.347, 20.156, 21.008, 21.864, 22.706, 23.575, 24.383, 25.158, 25.964, 26.789, 27.65]
+2020-11-17 23:23:58,473:INFO:Metrics dictionary generated
+2020-11-17 23:23:58,478:INFO:Json file C:/Users/Ye Tian/BME547/BME-547/assignment/final-project-hu-tian/ecg_data/test_data3.json created
+2020-11-17 23:23:58,478:INFO:Plotting enabled
+2020-11-17 23:26:58,037:INFO:Starting analysis the ECG trace C:/Users/Ye Tian/BME547/BME-547/assignment/final-project-hu-tian/ecg_data/test_data5.csv
+2020-11-17 23:26:58,684:INFO:ECG peaks detected
+2020-11-17 23:26:58,684:INFO:Calculating duration :27.772
+2020-11-17 23:26:58,685:INFO:Calculating voltage_extremes :(-1.155, 1.72)
+2020-11-17 23:26:58,685:INFO:Calculating num_beats :9
+2020-11-17 23:26:58,685:INFO:Calculating mean_hr_bpm :19.444044361227135
+2020-11-17 23:26:58,685:INFO:Calculating beats :[0.269, 4.128, 7.397, 9.011, 9.814, 15.503, 19.594, 21.2, 26.911]
+2020-11-17 23:26:58,685:INFO:Metrics dictionary generated
+2020-11-17 23:26:58,690:INFO:Json file C:/Users/Ye Tian/BME547/BME-547/assignment/final-project-hu-tian/ecg_data/test_data5.json created
+2020-11-17 23:26:58,690:INFO:Plotting enabled
