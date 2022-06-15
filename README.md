@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-BME 547 Final Project
+
 
 ### DUKE VM  
 vcm-17294.vm.duke.edu  
